@@ -3,3 +3,4 @@ data/*
 results/*.png
 cbresults/*.png
 betaresults/*.png
+tuningresults/*.png
